@@ -1,0 +1,5 @@
+{
+  "name": "Heavenzfire Syntropic Console",
+  "description": "A high-performance command and control dashboard for the Heavenzfire Syntropic Network Stack. visualizes FQ_CODEL/CAKE queues, latency telemetry, and provides Human-in-the-Loop governance via Gemini AI analysis.",
+  "requestFramePermissions": []
+}
